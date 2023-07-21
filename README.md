@@ -17,7 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots:
 
-<img width="800" alt="" src="https://github.com/Gunjaan/portfolio/assets/74871887/8565e145-7f56-4eb7-85ef-274eabc8235a">
 
-<img width="800" alt="" src="https://github.com/Gunjaan/portfolio/assets/74871887/755401a0-2b18-4402-a34e-f5c28d84495e">
+<img width="700" alt="Screenshot 2023-07-21 at 9 01 08 PM" src="https://github.com/Gunjaan/Portfolio-FlutterWeb/assets/74871887/1cd941ac-5fb6-4391-8ebf-9928ec27cc0f">
 
+<img width="700" alt="Screenshot 2023-07-21 at 9 01 24 PM" src="https://github.com/Gunjaan/Portfolio-FlutterWeb/assets/74871887/d2a3cde0-12c4-4383-8206-141b99b47f66">
+
+<img width="700" alt="Screenshot 2023-07-21 at 9 01 32 PM" src="https://github.com/Gunjaan/Portfolio-FlutterWeb/assets/74871887/eca88ddb-953a-4f76-8270-5760c2426bd1">
